@@ -1,23 +1,24 @@
 {
-	"name": "Backdoor",
-	"identifier": "com.bdg.backdoor.beta",
-	"iconURL": "https://github.com/814bdg/App/blob/main/Wing3x.png?raw=true",
-	"apps": [
-		{
-			"name": "Backdoor",
-			"bundleIdentifier": "com.bdg.backdoor",
-			"developerName": "BDG",
-			"iconURL": "https://github.com/814bdg/App/blob/main/Wing3x.png?raw=true",
-			"localizedDescription": "Backdoor is a free on-device iOS application manager/installer",
-			"subtitle": "On-device signing application",
-			"versions": [
-				{
-					"version": "0.0.8",
-					"date": "2025-0-08T18:35:10Z",
-					"downloadURL": "https://drive.google.com/file/d/1AKT5nevRywq9iGPQhSxp_SP6Gr7u37oZ/view?usp=sharing"
-				}
-			]
-		}
-	]
+  "name": "Backdoor Repository",
+  "identifier": "com.bdg.backdoor-repo",
+  "iconURL": "https://raw.githubusercontent.com/814bdg/App/refs/heads/main/Wing3x.png?raw=true",
+  "apps": [
+    {
+      "name": "Backdoor",
+      "bundleIdentifier": "com.bdg.backdoor",
+      "developerName": "BDG",
+      "iconURL": "https://raw.githubusercontent.com/814bdg/App/refs/heads/main/Wing3x.png?raw=true",
+      "localizedDescription": "Backdoor is a free on-device iOS application manager/installe.",
+      "subtitle": "On-device signing application",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "date": "2025-03-08T18:35:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/BDGHubNoKey/Backdoor/releases/download/v0.0.8/feather_v0.0.8.ipa"
+        }
+      ]
+    }
+  ]
 }
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
